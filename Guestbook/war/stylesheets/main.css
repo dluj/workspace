@@ -1,0 +1,27 @@
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+    background-color: #FFEECC;
+}
+
+#logout {
+	width:55px;
+	height:20px;
+	boder: 1px solid;
+	background:#cdcdcd;	
+}
+
+textarea {
+	margin: 5px;
+}
+
+label {
+	margin: 50px;
+	font-size: 10px;
+}
+
+#greet {
+	width: 300px;
+	height: 40px;
+	background: #cdcdce;
+	margin-bottom: 5px;
+}
